@@ -1,0 +1,14 @@
+.TodoTemplate {
+  width: 100%;
+  border-radius: 4px;
+
+  .app-title {
+    background: palevioletred;
+    height: 100px;
+    line-height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+  }
+}
